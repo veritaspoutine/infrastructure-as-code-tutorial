@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## About the repo
 
 This repository is used as a part of [infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial).
@@ -50,4 +50,4 @@ This tutorial assumes you have access to the Google Cloud Platform. While GCP is
 * [Docker](docs/08-docker.md)
 * [Docker Compose](docs/09-docker-compose.md)
 * [What is Infrastructure as Code](docs/50-what-is-iac.md)
->>>>>>> fb38fcbbced390cf45b50396e82df454a4c34e30
+
